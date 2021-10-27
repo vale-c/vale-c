@@ -42,5 +42,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vale-c&show_icons=true&locale=en&layout=compact" alt="vale-c" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vale-c&show_icons=true&locale=en" alt="vale-c" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vale-c&" alt="vale-c" /></p>
