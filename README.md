@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://frontendvale.me/](https://frontendvale.me/)
+- 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
-- 📝 I regularly write articles on [https://frontendvale.me/blog/](https://frontendvale.me/blog/)
+- 📝 I also write articles [https://valentinacalabrese.com/blog/](https://valentinacalabrese.com/blog/)
 
-- 💬 Ask me about **A11y, UI/UX, Usability, React.js**
+- 💬 Ask me about **UI/UX, Usability, A11y, React.js**
 
 - 📫 How to reach me **frontendvale@gmail.com**
 
 - 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1BWQfwZdzvKgJEWsxtYdsTVaXvOQ8YwqN/view?usp=sharing)
 
-- ⚡ Fun fact **I play the drums🥁, the bass & the guitar 🎸**
+- ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
