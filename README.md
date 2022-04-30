@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/)
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning about [**AI, Ethics, and society**](https://omscs.gatech.edu/cs-6603-ai-ethics-and-society)
 
 - 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
