@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **frontendvale@gmail.com**
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1BWQfwZdzvKgJEWsxtYdsTVaXvOQ8YwqN/view?usp=sharing)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1Z2qbJW7T4dGVoqhX2Li6QSl7pzhrvf5-/view?usp=sharing)
 
 - ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
