@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/). I am specializing in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
 
-- 🌱 I’m currently learning about [** Mobile & Ubiquitous Computing**](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)
+- 🌱 I’m currently learning about [**Mobile & Ubiquitous Computing**](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)
 
 - 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
@@ -32,7 +32,7 @@
 <a href="https://dev.to/valec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="valec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/calabresevalentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calabresevalentina" height="30" width="40" /></a>
 <a href="https://instagram.com/frontendvale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontendvale" height="30" width="40" /></a>
-<a href="https://dribbble.com/blueberrymuffin95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="blueberrymuffin95" height="30" width="40" /></a>
+<a href="https://dribbble.com/frontendvale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="frontendvale" height="30" width="40" /></a>
 <a href="https://medium.com/@vale-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vale-dev" height="30" width="40" /></a>
 </p>
 
