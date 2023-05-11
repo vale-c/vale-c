@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/)
+- 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/). I am specializing in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
 
-- 🌱 I’m currently learning about [**Software Development Process**](https://omscs.gatech.edu/cs-6300-software-development-process)
+- 🌱 I’m currently learning about [** Mobile & Ubiquitous Computing**](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)
 
 - 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
 - 📝 I also write articles [https://valentinacalabrese.com/blog/](https://valentinacalabrese.com/blog/)
 
-- 💬 Ask me about **UI/UX, Usability, A11y, React.js**
+- 💬 Ask me about **UI/UX, Usability, A11y, React.js/Next.js**
 
 - 📫 How to reach me **frontendvale@gmail.com**
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1Z2qbJW7T4dGVoqhX2Li6QSl7pzhrvf5-/view?usp=sharing)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1Z2qbJW7T4dGVoqhX2Li6QSl7pzhrvf5-/view?usp=share_link)
 
 - ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
