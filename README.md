@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
-<h3 align="center">A passionate Front-end Engineer from Italy</h3>
+<h3 align="center">A passionate Front-end Software Engineer from 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vale-c&label=Profile%20views&color=0e75b6&style=flat" alt="vale-c" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/). I am specializing in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
 
-- 🌱 I’m currently learning about [**Mobile & Ubiquitous Computing**](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)
+- 🌱 I’m currently learning about [**Digital Marketing**](https://omscs.gatech.edu/mgt-6311-digital-marketing) and [**Health Informatics**](https://omscs.gatech.edu/cs-6440-intro-health-informatics).
 
 - 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
@@ -17,9 +17,7 @@
 
 - 💬 Ask me about **UI/UX, Usability, A11y, React.js/Next.js**
 
-- 📫 How to reach me **frontendvale@gmail.com**
-
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1Z2qbJW7T4dGVoqhX2Li6QSl7pzhrvf5-/view?usp=share_link)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1KqcTOKtlHYADZ7k-x0cxFr-Xp9icF_Vc/view?usp=sharing)
 
 - ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
