@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/). I am specializing in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
-
-- 🌱 I’m currently learning about [**Digital Marketing**](https://omscs.gatech.edu/mgt-6311-digital-marketing) and [**Health Informatics**](https://omscs.gatech.edu/cs-6440-intro-health-informatics).
+- 🔭 I’ve recently obtained an MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/) with a specialization in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
 
 - 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
 
@@ -17,7 +15,7 @@
 
 - 💬 Ask me about **UI/UX, Usability, A11y, React.js/Next.js**
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1KqcTOKtlHYADZ7k-x0cxFr-Xp9icF_Vc/view?usp=sharing)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1o_U1PSaiINcXleAm3jLwWnOiZ8-1ivEa/view)
 
 - ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
