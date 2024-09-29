@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **UI/UX, Usability, A11y, React.js/Next.js**
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/1xHPwg9pPTiL2paP0MjTS4rqQO7fiUozi/view)
+- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/14OAiKLsUT5G32jRzMWivIWQ9wIPhWFop/view?usp=sharing)
 
 - ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
 
