@@ -1,37 +1,74 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 const Parser = require('rss-parser');
+const path = require('path');
 
-const parser = new Parser();
-const readmeFile = './README.md';
+const parser = new Parser({
+  timeout: 60000, // 60 seconds timeout
+});
+const readmeFile = path.join(__dirname, 'README.md');
+const rssUrl = 'https://valentinacalabrese.com/api/rss';
 
-const updateReadme = async () => {
-  const feed = await parser.parseURL('https://valentinacalabrese.com/api/rss');
-  
-  let blogPostsSection = '## 📘 Latest Blog Posts\n\n';
-  
-  feed.items.slice(0, 5).forEach(item => {
-    const date = new Date(item.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-    blogPostsSection += `* [${item.title}](${item.link})\n  <br/><sub>${date} | ${item.categories.join(', ')}</sub>\n\n`;
-  });
-  
-  blogPostsSection += '<details>\n  <summary>Read more blog posts</summary>\n\n';
-  feed.items.slice(5).forEach(item => {
-    const date = new Date(item.pubDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-    blogPostsSection += `* [${item.title}](${item.link})\n  <br/><sub>${date} | ${item.categories.join(', ')}</sub>\n\n`;
-  });
-  blogPostsSection += '</details>\n\n';
+async function fetchBlogPosts() {
+  try {
+    const feed = await parser.parseURL(rssUrl);
+    return feed.items;
+  } catch (error) {
+    console.error('Error fetching or parsing RSS feed:', error);
+    return null;
+  }
+}
 
-  let readme = fs.readFileSync(readmeFile, 'utf8');
-  
-  const blogPostsSectionRegex = /## 📘 Latest Blog Posts[\s\S]*?<\/details>/;
-  
-  if (blogPostsSectionRegex.test(readme)) {
-    readme = readme.replace(blogPostsSectionRegex, blogPostsSection);
-  } else {
-    readme += '\n\n' + blogPostsSection;
+function formatDate(dateString) {
+  const date = new Date(dateString);
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+function generateBlogPostsSection(posts) {
+  if (!posts || posts.length === 0) {
+    return '## 📘 Latest Blog Posts\n\nUnable to fetch blog posts at this time. Please check back later!\n';
   }
 
-  fs.writeFileSync(readmeFile, readme);
-};
+  let blogPostsSection = '## 📘 Latest Blog Posts\n\n';
+  
+  posts.slice(0, 5).forEach(post => {
+    const date = formatDate(post.pubDate || post.isoDate);
+    const categories = post.categories ? post.categories.join(', ') : 'Uncategorized';
+    blogPostsSection += `* [${post.title}](${post.link})\n  <br/><sub>${date} | ${categories}</sub>\n\n`;
+  });
+  
+  if (posts.length > 5) {
+    blogPostsSection += '<details>\n  <summary>Read more blog posts</summary>\n\n';
+    posts.slice(5).forEach(post => {
+      const date = formatDate(post.pubDate || post.isoDate);
+      const categories = post.categories ? post.categories.join(', ') : 'Uncategorized';
+      blogPostsSection += `* [${post.title}](${post.link})\n  <br/><sub>${date} | ${categories}</sub>\n\n`;
+    });
+    blogPostsSection += '</details>\n';
+  }
+
+  return blogPostsSection;
+}
+
+async function updateReadme() {
+  try {
+    const posts = await fetchBlogPosts();
+    const blogPostsSection = generateBlogPostsSection(posts);
+
+    let readme = await fs.readFile(readmeFile, 'utf8');
+    
+    const blogPostsSectionRegex = /## 📘 Latest Blog Posts[\s\S]*?(?=##|$)/;
+    
+    if (blogPostsSectionRegex.test(readme)) {
+      readme = readme.replace(blogPostsSectionRegex, blogPostsSection);
+    } else {
+      readme += '\n\n' + blogPostsSection;
+    }
+
+    await fs.writeFile(readmeFile, readme);
+    console.log('README.md has been updated successfully.');
+  } catch (error) {
+    console.error('Error updating README.md:', error);
+  }
+}
 
 updateReadme();
