@@ -52,3 +52,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://valentinacalabrese.com/blog)
+
+
+## Latest Blog Posts
+
+- [Graduation Day](https://valentinacalabrese.com/blog/graduation-and-new-year-resolutions)
+- [Decoding the Magic of React’s useEffect hook](https://valentinacalabrese.com/blog/decoding-use-effect-hook)
+- [Understanding the Differences Between useCallback and useMemo](https://valentinacalabrese.com/blog/differences-use-memo-use-callback-hooks)
+- [Summer 2023](https://valentinacalabrese.com/blog/summer-2023)
+- [Intro to Cognitive Science](https://valentinacalabrese.com/blog/spring-2023)
+
+[Read more blog posts →](https://valentinacalabrese.com/blog)
