@@ -2,12 +2,14 @@ name: Update README with blog posts
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v2
