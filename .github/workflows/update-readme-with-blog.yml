@@ -21,6 +21,7 @@ jobs:
       run: |
         node update-readme.js
         cat README.md  # This will output the content of README.md to the action logs
+      continue-on-error: true
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
