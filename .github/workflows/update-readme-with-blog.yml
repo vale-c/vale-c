@@ -12,29 +12,20 @@ jobs:
       contents: write
 
     steps:
-      # Step 1: Checkout the repository with full history
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch full history to avoid shallow clone issues
 
-      # Step 2: Set up Node.js
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install rss-parser@latest
 
-      # Step 4: Pull the latest changes from the remote main branch
-      - name: Pull latest changes
-        run: git pull origin main --no-edit || git reset --hard origin/main
-
-      # Step 5: Run the script to update README
       - name: Update README
         run: node update-readme.js
 
-      # Step 6: Commit and push the changes if README.md was updated
       - name: Commit and push if changed
         run: |
           git config --global user.email "action@github.com"
@@ -43,7 +34,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Updated README with latest blog posts"
-            git push origin main
+            git push --force origin main
           else
             echo "No changes to commit."
           fi
