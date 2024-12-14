@@ -10,15 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    concurrency:
+      group: update-readme
+      cancel-in-progress: true
 
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
           ref: main
-
-      - name: Ensure we're on main
-        run: git checkout main
 
       - name: Pull latest changes
         run: git pull origin main
