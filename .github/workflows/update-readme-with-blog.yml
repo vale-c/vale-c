@@ -24,5 +24,10 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          git diff --quiet || (git commit -m "Updated README with latest blog posts" && git pull --rebase && git push)
-
+          if ! git diff --cached --quiet; then
+            git commit -m "Updated README with latest blog posts"
+            git pull --rebase origin main || (echo "Rebase failed, retrying with reset" && git reset --hard origin/main)
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
