@@ -49,78 +49,78 @@
 ## 📘 Latest Blog Posts
 
 * [Graduation Day](https://valentinacalabrese.com/blog/graduation-and-new-year-resolutions)
-  <br/><sub>Jan 11, 2024 | Uncategorized</sub>
+  <br/><sub>Jan 11, 2024 | graduation, atlanta, georgia tech</sub>
 
 * [Decoding the Magic of React’s useEffect hook](https://valentinacalabrese.com/blog/decoding-use-effect-hook)
-  <br/><sub>Jul 30, 2023 | Uncategorized</sub>
+  <br/><sub>Jul 30, 2023 | react.js, coding, hooks</sub>
 
 * [Understanding the Differences Between useCallback and useMemo](https://valentinacalabrese.com/blog/differences-use-memo-use-callback-hooks)
-  <br/><sub>Jul 29, 2023 | Uncategorized</sub>
+  <br/><sub>Jul 29, 2023 | react.js, coding, hooks</sub>
 
 * [Summer 2023](https://valentinacalabrese.com/blog/summer-2023)
-  <br/><sub>May 19, 2023 | Uncategorized</sub>
+  <br/><sub>May 19, 2023 | summer, georgia tech, omscs, thoughts</sub>
 
 * [Intro to Cognitive Science](https://valentinacalabrese.com/blog/spring-2023)
-  <br/><sub>Jan 20, 2023 | Uncategorized</sub>
+  <br/><sub>Jan 20, 2023 | omscs, spring, 2023, hi</sub>
 
 <details>
   <summary>Read more blog posts</summary>
 
 * [Almost time to wrap up](https://valentinacalabrese.com/blog/wrapping-up-2022)
-  <br/><sub>Dec 28, 2022 | Uncategorized</sub>
+  <br/><sub>Dec 28, 2022 | reflection, 2022</sub>
 
 * [Long time no see](https://valentinacalabrese.com/blog/long-time-no-see)
-  <br/><sub>Oct 22, 2022 | Uncategorized</sub>
+  <br/><sub>Oct 22, 2022 | remote, hi, updates</sub>
 
 * [End of year 2021](https://valentinacalabrese.com/blog/end-of-year-2021-edition)
-  <br/><sub>Dec 31, 2021 | Uncategorized</sub>
+  <br/><sub>Dec 31, 2021 | 2021, end, year, thoughts</sub>
 
 * [Fall 2021 Updates](https://valentinacalabrese.com/blog/fall-2021-updates)
-  <br/><sub>Sep 5, 2021 | Uncategorized</sub>
+  <br/><sub>Sep 5, 2021 | updates, omscs, georgia tech</sub>
 
 * [Design Principles](https://valentinacalabrese.com/blog/design-principles-and-why-they-matter-a-lot)
-  <br/><sub>Jun 2, 2021 | Uncategorized</sub>
+  <br/><sub>Jun 2, 2021 | design, principles, ux, ui</sub>
 
 * [4 Different Ways to Reverse a String in Javascript](https://valentinacalabrese.com/blog/4-ways-to-reverse-a-string-in-javascript)
-  <br/><sub>Jun 1, 2021 | Uncategorized</sub>
+  <br/><sub>Jun 1, 2021 | javascript, tutorial, algorithms, string</sub>
 
 * [Summer Break](https://valentinacalabrese.com/blog/taking-a-summer-break)
-  <br/><sub>May 22, 2021 | Uncategorized</sub>
+  <br/><sub>May 22, 2021 | may, 2021, omscs, summer</sub>
 
 * [A Day in the Life of a Front-End Engineer ](https://valentinacalabrese.com/blog/day-in-the-life)
-  <br/><sub>Apr 1, 2021 | Uncategorized</sub>
+  <br/><sub>Apr 1, 2021 | cloudacademy, day in the life, front-end</sub>
 
 * [2021 Updates](https://valentinacalabrese.com/blog/updates-about-OMSCS-and-HCI)
-  <br/><sub>Mar 29, 2021 | Uncategorized</sub>
+  <br/><sub>Mar 29, 2021 | 2021, omscs, updates</sub>
 
 * [Goodbye 2020](https://valentinacalabrese.com/blog/goodbye-2020)
-  <br/><sub>Dec 31, 2020 | Uncategorized</sub>
+  <br/><sub>Dec 31, 2020 | end, year, 2020, thoughts</sub>
 
 * [Goodbye 2019](https://valentinacalabrese.com/blog/goodbye-2019)
-  <br/><sub>Dec 31, 2019 | Uncategorized</sub>
+  <br/><sub>Dec 31, 2019 | end, year, 2019, thoughts</sub>
 
 * [Mailchimp Internship](https://valentinacalabrese.com/blog/my-mailchimp-internship-in-atlanta)
-  <br/><sub>Aug 25, 2019 | Uncategorized</sub>
+  <br/><sub>Aug 25, 2019 | internship, atlanta, mailchimp</sub>
 
 * [A New Adventure](https://valentinacalabrese.com/blog/a-new-adventure-in-the-us)
-  <br/><sub>Apr 16, 2019 | Uncategorized</sub>
+  <br/><sub>Apr 16, 2019 | adventure, mailchimp, internship</sub>
 
 * [The Fox Internship](https://valentinacalabrese.com/blog/the-fox-internship)
-  <br/><sub>Jan 1, 2019 | Uncategorized</sub>
+  <br/><sub>Jan 1, 2019 | internship, updates, remote</sub>
 
 * [My Adobe internship](https://valentinacalabrese.com/blog/my-adobe-internship)
-  <br/><sub>Nov 11, 2018 | Uncategorized</sub>
+  <br/><sub>Nov 11, 2018 | adobe, internship, new york</sub>
 
 * [Mastering Resilience](https://valentinacalabrese.com/blog/the-subtle-art-of-resilience)
-  <br/><sub>Jun 12, 2018 | Uncategorized</sub>
+  <br/><sub>Jun 12, 2018 | resilience, thoughts, reflection</sub>
 
 * [A dream come true](https://valentinacalabrese.com/blog/a-dream-come-true)
-  <br/><sub>Jun 12, 2018 | Uncategorized</sub>
+  <br/><sub>Jun 12, 2018 | dream, internship, new york</sub>
 
 * [Hello world](https://valentinacalabrese.com/blog/welcome-to-my-portfolio-website)
-  <br/><sub>Apr 5, 2018 | Uncategorized</sub>
+  <br/><sub>Apr 5, 2018 | hello world, hi, welcome</sub>
 
 * [NDC London 2018](https://valentinacalabrese.com/blog/ndc-london-2018)
-  <br/><sub>Jan 1, 2018 | Uncategorized</sub>
+  <br/><sub>Jan 1, 2018 | ndc, conference, london, 2018</sub>
 
 </details>
