@@ -14,7 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history to avoid shallow clone issues
+          fetch-depth: 0
+          ref: main
+
+      - name: Ensure we're on main
+        run: git checkout main
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - uses: actions/setup-node@v3
         with:
@@ -31,16 +38,8 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-      
           if ! git diff --cached --quiet; then
             git commit -m "Updated README with latest blog posts"
-      
-            # Pull the latest changes from the remote main branch before pushing
-            git pull origin main --rebase
-      
-            # Push the changes to main
             git push origin main
           else
             echo "No changes to commit."
-          fi
-
