@@ -11,6 +11,10 @@ const rssUrl = 'https://valentinacalabrese.com/api/rss';
 async function fetchBlogPosts() {
   try {
     const feed = await parser.parseURL(rssUrl);
+    feed.items.forEach(item => {
+      console.log(`Title: ${item.title}`);
+      console.log(`Categories: ${item.categories}`);
+    });
     return feed.items;
   } catch (error) {
     console.error('Error fetching or parsing RSS feed:', error);
@@ -29,13 +33,13 @@ function generateBlogPostsSection(posts) {
   }
 
   let blogPostsSection = '## 📘 Latest Blog Posts\n\n';
-  
+
   posts.slice(0, 5).forEach(post => {
     const date = formatDate(post.pubDate || post.isoDate);
     const categories = post.categories ? post.categories.join(', ') : 'Uncategorized';
     blogPostsSection += `* [${post.title}](${post.link})\n  <br/><sub>${date} | ${categories}</sub>\n\n`;
   });
-  
+
   if (posts.length > 5) {
     blogPostsSection += '<details>\n  <summary>Read more blog posts</summary>\n\n';
     posts.slice(5).forEach(post => {
