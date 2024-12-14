@@ -11,20 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-    - name: Install dependencies
-      run: npm install rss-parser
-    - name: Update README
-      run: |
-        node update-readme.js
-        cat README.md  # This will output the content of README.md to the action logs
-      continue-on-error: true
-    - name: Commit and push if changed
-      run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Updated README with latest blog posts" && git push)
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install rss-parser@latest
+      - name: Debug RSS Parsing
+        run: node update-readme.js
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git diff --quiet || (git commit -m "Updated README with latest blog posts" && git push)
