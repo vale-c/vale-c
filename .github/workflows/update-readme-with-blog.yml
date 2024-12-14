@@ -24,4 +24,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add README.md
-          git diff --quiet || (git commit -m "Updated README with latest blog posts" && git push)
+          git diff --quiet || (git commit -m "Updated README with latest blog posts" && git pull --rebase && git push)
+
