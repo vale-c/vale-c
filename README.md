@@ -1,126 +1,101 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Valentina;Front-end+Software+Engineer;UX+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<h3 align="center">A passionate Front-end Software Engineer from 🇮🇹</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007A,100:00FFE0&height=180&section=header&text=Vale&fontSize=70&fontColor=FFFFFF&fontAlignY=32&desc=Senior%20Front-end%20Engineer&descSize=16&descColor=FFFFFFBB&descAlignY=55&animation=fadeIn" width="100%" alt="Vale" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vale-c&label=Profile%20views&color=0e75b6&style=flat" alt="vale-c" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1500&color=00FFE0&center=true&vCenter=true&repeat=true&width=500&height=45&lines=agentic+coding+%C2%B7+AI+tooling;TypeScript+%2F+React+%2F+Next.js+%2F+Claude;based+in+Italy+%C2%B7+building+the+front-end+of+AI" alt="Typing SVG" />
+</a>
 
-- 🔭 I've recently obtained an MSc in Computer Science at [Georgia Tech](https://omscs.gatech.edu/) with a specialization in [Human-Computer Interaction](https://omscs.gatech.edu/cs-6750-human-computer-interaction).
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://valentinacalabrese.com/](https://valentinacalabrese.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calabresevalentina)
+[![X](https://img.shields.io/badge/@valecodes-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/valecodes)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/valec)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vale-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/frontendvale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF007A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://valentinacalabrese.com)
 
-- 📝 I also write articles [https://valentinacalabrese.com/blog/](https://valentinacalabrese.com/blog/)
+<br/>
 
-- 💬 Ask me about **UI/UX, Usability, A11y, React.js/Next.js**
+![Profile Views](https://komarev.com/ghpvc/?username=vale-c&label=visitors&color=00FFE0&style=flat)
 
-- 📄 Know about my experiences by reading my [CV](https://drive.google.com/file/d/14OAiKLsUT5G32jRzMWivIWQ9wIPhWFop/view?usp=sharing)
+</div>
 
-- ⚡ Fun facts **I play the drums🥁, the bass & the guitar 🎸**
+## `> whoami`
 
-### 🛠 Skills
+```typescript
+const vale = {
+  role:       "Senior Front-end Engineer",
+  location:   "Italy",
+  focus:      ["agentic coding", "AI tooling", "front-end architecture"],
+  stack:      ["TypeScript", "React", "Next.js", "Tailwind", "Claude", "Cursor"],
+  after5pm:   ["drums", "bass", "guitar"],
+};
+```
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,figma,git,docker,graphql,jest,python&theme=light)](https://skillicons.dev)
+## `> tech --stack`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/valec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="valec" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/calabresevalentina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calabresevalentina" height="30" width="40" /></a>
-  <a href="https://instagram.com/frontendvale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontendvale" height="30" width="40" /></a>
-  <a href="https://dribbble.com/frontendvale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="frontendvale" height="30" width="40" /></a>
-  <a href="https://medium.com/@vale-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vale-dev" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">📊 GitHub Stats:</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-c&show_icons=true&theme=radical)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vale-c&theme=radical)
+## `> stats`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vale-c&layout=compact&theme=radical)
+<div align="center">
 
-### 😄 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://streak-stats.demolab.com?user=vale-c&background=0D1117&ring=FF007A&fire=FF007A&currStreakNum=00FFE0&sideNums=00FFE0&currStreakLabel=00FFE0&sideLabels=00FFE0&dates=888888&stroke=FF007A22&hide_border=true" alt="GitHub Streak" />
 
-## 📘 Latest Blog Posts
+<br/>
 
-* [Graduation Day](https://valentinacalabrese.com/blog/graduation-and-new-year-resolutions)
-  <br/><sub>Jan 11, 2024 | graduation, atlanta, georgia tech</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vale-c&bg_color=0D1117&color=00FFE0&line=FF007A&point=FFFFFF&area=true&area_color=FF007A33&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
 
-* [Decoding the Magic of React’s useEffect hook](https://valentinacalabrese.com/blog/decoding-use-effect-hook)
-  <br/><sub>Jul 30, 2023 | react.js, coding, hooks</sub>
+</div>
 
-* [Understanding the Differences Between useCallback and useMemo](https://valentinacalabrese.com/blog/differences-use-memo-use-callback-hooks)
-  <br/><sub>Jul 29, 2023 | react.js, coding, hooks</sub>
+## `> snake`
 
-* [Summer 2023](https://valentinacalabrese.com/blog/summer-2023)
-  <br/><sub>May 19, 2023 | summer, georgia tech, omscs, thoughts</sub>
+<div align="center">
 
-* [Intro to Cognitive Science](https://valentinacalabrese.com/blog/spring-2023)
-  <br/><sub>Jan 20, 2023 | omscs, spring, 2023, hi</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vale-c/vale-c/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vale-c/vale-c/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/vale-c/vale-c/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<details>
-  <summary>Read more blog posts</summary>
+</div>
 
-* [Almost time to wrap up](https://valentinacalabrese.com/blog/wrapping-up-2022)
-  <br/><sub>Dec 28, 2022 | reflection, 2022</sub>
+## `> blog --latest`
 
-* [Long time no see](https://valentinacalabrese.com/blog/long-time-no-see)
-  <br/><sub>Oct 22, 2022 | remote, hi, updates</sub>
+| | Post | Date |
+|---|---|---|
+| 🤖 | [Agentic Engineering Is Not a Vibe](https://valentinacalabrese.com/blog/ai-engineering-is-not-a-vibe) | Feb 2026 |
+| 👾 | [My AI Agent Installed Malware on My Server (And Then Caught Itself Doing It)](https://valentinacalabrese.com/blog/my-ai-agent-installed-malware-on-my-server) | Feb 2026 |
+| 🎓 | [Graduation Day](https://valentinacalabrese.com/blog/graduation-and-new-year-resolutions) | Jan 2024 |
 
-* [End of year 2021](https://valentinacalabrese.com/blog/end-of-year-2021-edition)
-  <br/><sub>Dec 31, 2021 | 2021, end, year, thoughts</sub>
+**[Read all posts &rarr;](https://valentinacalabrese.com/blog/)**
 
-* [Fall 2021 Updates](https://valentinacalabrese.com/blog/fall-2021-updates)
-  <br/><sub>Sep 5, 2021 | updates, omscs, georgia tech</sub>
+## `> joke --random`
 
-* [Design Principles](https://valentinacalabrese.com/blog/design-principles-and-why-they-matter-a-lot)
-  <br/><sub>Jun 2, 2021 | design, principles, ux, ui</sub>
+<div align="center">
 
-* [4 Different Ways to Reverse a String in Javascript](https://valentinacalabrese.com/blog/4-ways-to-reverse-a-string-in-javascript)
-  <br/><sub>Jun 1, 2021 | javascript, tutorial, algorithms, string</sub>
+<img src="https://readme-jokes.vercel.app/api?bgColor=0D1117&textColor=00FFE0&aColor=FFFFFF&borderColor=FF007A22" alt="Random Dev Joke" />
 
-* [Summer Break](https://valentinacalabrese.com/blog/taking-a-summer-break)
-  <br/><sub>May 22, 2021 | may, 2021, omscs, summer</sub>
+</div>
 
-* [A Day in the Life of a Front-End Engineer ](https://valentinacalabrese.com/blog/day-in-the-life)
-  <br/><sub>Apr 1, 2021 | cloudacademy, day in the life, front-end</sub>
+<div align="center">
 
-* [2021 Updates](https://valentinacalabrese.com/blog/updates-about-OMSCS-and-HCI)
-  <br/><sub>Mar 29, 2021 | 2021, omscs, updates</sub>
+```
+// exit 0
+```
 
-* [Goodbye 2020](https://valentinacalabrese.com/blog/goodbye-2020)
-  <br/><sub>Dec 31, 2020 | end, year, 2020, thoughts</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:FF007A&height=100&section=footer" width="100%" alt="" />
 
-* [Goodbye 2019](https://valentinacalabrese.com/blog/goodbye-2019)
-  <br/><sub>Dec 31, 2019 | end, year, 2019, thoughts</sub>
-
-* [Mailchimp Internship](https://valentinacalabrese.com/blog/my-mailchimp-internship-in-atlanta)
-  <br/><sub>Aug 25, 2019 | internship, atlanta, mailchimp</sub>
-
-* [A New Adventure](https://valentinacalabrese.com/blog/a-new-adventure-in-the-us)
-  <br/><sub>Apr 16, 2019 | adventure, mailchimp, internship</sub>
-
-* [The Fox Internship](https://valentinacalabrese.com/blog/the-fox-internship)
-  <br/><sub>Jan 1, 2019 | internship, updates, remote</sub>
-
-* [My Adobe internship](https://valentinacalabrese.com/blog/my-adobe-internship)
-  <br/><sub>Nov 11, 2018 | adobe, internship, new york</sub>
-
-* [Mastering Resilience](https://valentinacalabrese.com/blog/the-subtle-art-of-resilience)
-  <br/><sub>Jun 12, 2018 | resilience, thoughts, reflection</sub>
-
-* [A dream come true](https://valentinacalabrese.com/blog/a-dream-come-true)
-  <br/><sub>Jun 12, 2018 | dream, internship, new york</sub>
-
-* [Hello world](https://valentinacalabrese.com/blog/welcome-to-my-portfolio-website)
-  <br/><sub>Apr 5, 2018 | hello world, hi, welcome</sub>
-
-* [NDC London 2018](https://valentinacalabrese.com/blog/ndc-london-2018)
-  <br/><sub>Jan 1, 2018 | ndc, conference, london, 2018</sub>
-
-</details>
+</div>
