@@ -1,0 +1,51 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# Contribution Snake Animation
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# SETUP:
+#
+# 1. Place this file at:  .github/workflows/snake.yml
+#    (inside your profile repo: vale-c/vale-c)
+#
+# 2. Go to your repo Settings > Actions > General:
+#    , under "Workflow permissions", select "Read and write permissions"
+#    , check "Allow GitHub Actions to create and approve pull requests"
+#    , click Save
+#
+# 3. Run the workflow manually the first time:
+#    , go to Actions tab > "Generate Snake Animation" > "Run workflow"
+#    , this creates the `output` branch with the SVG files
+#
+# 4. After the first run, the workflow runs daily at midnight UTC.
+#    The README references the SVGs from the `output` branch automatically.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: vale-c
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
