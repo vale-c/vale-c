@@ -16,7 +16,7 @@
 [![X](https://img.shields.io/badge/@valecodes-16161A?style=flat-square&logo=x&logoColor=EDEDEF)](https://x.com/valecodes)
 [![dev.to](https://img.shields.io/badge/dev.to-16161A?style=flat-square&logo=devdotto&logoColor=EDEDEF)](https://dev.to/valec)
 [![Medium](https://img.shields.io/badge/Medium-16161A?style=flat-square&logo=medium&logoColor=EDEDEF)](https://medium.com/@vale-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-16161A?style=flat-square&logo=instagram&logoColor=EDEDEF)](https://instagram.com/frontendvale)
+[![Instagram](https://img.shields.io/badge/Instagram-16161A?style=flat-square&logo=instagram&logoColor=EDEDEF)](https://instagram.com/vale_codes)
 [![Portfolio](https://img.shields.io/badge/valentinacalabrese.com-F5C400?style=flat-square&logo=googlechrome&logoColor=16161A)](https://valentinacalabrese.com)
 
 <img src="https://komarev.com/ghpvc/?username=vale-c&label=OBSERVERS&color=F5C400&style=flat-square" alt="profile observers" />
