@@ -108,7 +108,7 @@ const vale = {
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=0A0A0C&qColor=EDEDEF&aColor=F5C400&textColor=8A8A92&borderColor=26262B" alt="random dev joke" />
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0C&qColor=%23EDEDEF&aColor=%23EDEDEF&textColor=%238A8A92&borderColor=%2326262B&codeColor=%23F5C400" alt="random dev joke" />
 
 <sub>the machine flagged this section as irrelevant. it stays.</sub>
 
