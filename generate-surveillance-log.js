@@ -10,6 +10,7 @@ const FONT_B64 = fs
   .readFileSync(path.join(__dirname, 'assets', 'fonts', 'fm-subset.woff2'))
   .toString('base64');
 
+// dark = the Machine watching; light = Samaritan watching
 const THEMES = {
   dark: {
     bg: '#0A0A0C',
@@ -17,23 +18,27 @@ const THEMES = {
     text: '#EDEDEF',
     dim: '#8A8A92',
     faint: '#5A5A62',
-    yellow: '#F5C400',
+    accent: '#F5C400',
     red: '#E03131',
     rule: '#26262B',
     sweep: '#FFFFFF',
     scanOpacity: '0.022',
+    title: 'SURVEILLANCE LOG // LAST INTERCEPTS',
+    live: 'LIVE',
   },
   light: {
-    bg: '#F4F3EF',
-    panelEdge: '#DDDCD5',
-    text: '#1C1C1E',
-    dim: '#6E6E74',
-    faint: '#9A9AA0',
-    yellow: '#A88600',
-    red: '#C03535',
-    rule: '#D8D7D0',
+    bg: '#F3F4F6',
+    panelEdge: '#DBDDE2',
+    text: '#1B1C1F',
+    dim: '#6C6E74',
+    faint: '#989AA1',
+    accent: '#C1272D',
+    red: '#C1272D',
+    rule: '#D7D9DE',
     sweep: '#000000',
     scanOpacity: '0.014',
+    title: 'THREAT ANALYSIS // RECENT ACTIVITY',
+    live: 'TRACKING',
   },
 };
 
@@ -134,7 +139,7 @@ function render(t, rows) {
       return `<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;${k};1" dur="${total}s" begin="0s" fill="freeze"/>
   <text x="48" y="${y}" font-size="13" letter-spacing="1" fill="${t.faint}">${r.time}</text>
   <text x="192" y="${y}" font-size="13" letter-spacing="1" fill="${t.text}">${escapeXml(truncate(r.action, 54))}</text>
-  <text x="952" y="${y}" text-anchor="end" font-size="13" letter-spacing="1" fill="${t.yellow}">[ ${r.tag} ]</text>
+  <text x="952" y="${y}" text-anchor="end" font-size="13" letter-spacing="1" fill="${t.accent}">[ ${r.tag} ]</text>
 </g>`;
     })
     .join('\n');
@@ -150,11 +155,11 @@ function render(t, rows) {
   </pattern>
 </defs>
 <rect width="${W}" height="${H}" rx="8" fill="url(#scan)"/>
-<text x="48" y="46" font-size="13" letter-spacing="3" fill="${t.dim}">SURVEILLANCE LOG // LAST INTERCEPTS</text>
+<text x="48" y="46" font-size="13" letter-spacing="3" fill="${t.dim}">${t.title}</text>
 <g>
   <animate attributeName="opacity" values="1;0" keyTimes="0;0.55" calcMode="discrete" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-  <circle cx="879" cy="41.5" r="4.5" fill="${t.red}"/>
-  <text x="952" y="46" text-anchor="end" font-size="13" letter-spacing="3" fill="${t.red}">LIVE</text>
+  <circle cx="${952 - adv(t.live.length, 13, 3) - 16}" cy="41.5" r="4.5" fill="${t.red}"/>
+  <text x="952" y="46" text-anchor="end" font-size="13" letter-spacing="3" fill="${t.red}">${t.live}</text>
 </g>
 <line x1="48" y1="62" x2="952" y2="62" stroke="${t.rule}" stroke-width="1.5"/>
 ${rowSvg}

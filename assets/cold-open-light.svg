@@ -9,6 +9,6 @@
   </clipPath>
 </defs>
 <g clip-path="url(#reveal)">
-  <text x="500" y="23" text-anchor="middle" font-size="13" letter-spacing="4" fill="#6E6E74">YOU ARE BEING WATCHED.</text>
+  <text x="500" y="23" text-anchor="middle" font-size="13" letter-spacing="4" fill="#6C6E74">YOU ARE BEING WATCHED.</text>
 </g>
 </svg>
