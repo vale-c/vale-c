@@ -64,10 +64,6 @@ const vale = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vale-c&background=0A0A0C&ring=F5C400&fire=F5C400&currStreakNum=EDEDEF&sideNums=EDEDEF&currStreakLabel=F5C400&sideLabels=8A8A92&dates=5A5A62&stroke=26262B&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vale-c&bg_color=0A0A0C&color=8A8A92&line=F5C400&point=EDEDEF&area=true&area_color=F5C40022&hide_border=true&custom_title=CONTRIBUTION%20FEED" width="95%" alt="contribution activity graph" />
 
 </div>
