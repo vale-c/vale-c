@@ -1,4 +1,10 @@
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cold-open-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/cold-open-light.svg" />
+  <img src="assets/cold-open-dark.svg" width="100%" alt="You are being watched." />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
   <img src="assets/header-dark.svg" width="100%" alt="SUBJECT: CALABRESE, VALENTINA · DESIGNATION: ADMIN · CLASS: WEB TEAM LEAD · AFFIL: PHOTOROOM · LOC: PARIS // ITALY" />
@@ -60,6 +66,12 @@ const vale = {
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-03-telemetry-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/section-03-telemetry-light.svg" />
   <img src="assets/section-03-telemetry-dark.svg" width="100%" alt="03 // TELEMETRY" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/surveillance-log-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/surveillance-log-light.svg" />
+  <img src="assets/surveillance-log-dark.svg" width="100%" alt="Surveillance log of recent GitHub activity" />
 </picture>
 
 <div align="center">

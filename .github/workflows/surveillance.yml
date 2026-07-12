@@ -1,0 +1,42 @@
+name: Update surveillance log
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  surveillance:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: surveillance-log
+      cancel-in-progress: true
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate surveillance log
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node generate-surveillance-log.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add assets/surveillance-log-dark.svg assets/surveillance-log-light.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update surveillance log"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
