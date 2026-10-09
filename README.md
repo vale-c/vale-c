@@ -120,7 +120,7 @@ const vale = {
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0C&qColor=%23EDEDEF&aColor=%23EDEDEF&textColor=%238A8A92&borderColor=%2326262B&codeColor=%23F5C400" alt="random dev joke" />
+<img src="https://img.shields.io/badge/Q%3A_Why_do_programmers_prefer_dark_mode%3F-A%3A_Because_light_attracts_bugs!-F5C400?style=for-the-badge&labelColor=0A0A0C" alt="random dev joke" />
 
 <sub>the machine flagged this section as irrelevant. it stays.</sub>
 
