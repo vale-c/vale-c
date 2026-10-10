@@ -1,0 +1,42 @@
+name: Update contribution activity graph
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # daily at 07:00 UTC
+  workflow_dispatch:
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: activity-graph
+      cancel-in-progress: true
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node generate-activity-graph.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add assets/contribution-activity-graph.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update contribution activity graph"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
