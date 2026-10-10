@@ -76,7 +76,7 @@ const vale = {
 
 <div align="center">
 
-<img src="https://github-activity-graph.luckylinux.dev/graph?username=vale-c&bg_color=0A0A0C&color=8A8A92&line=F5C400&point=EDEDEF&area=true&area_color=F5C40022&hide_border=true&custom_title=CONTRIBUTION%20FEED" width="95%" alt="contribution activity graph" />
+<img src="assets/contribution-activity-graph.svg" width="95%" alt="contribution activity graph" />
 
 </div>
 

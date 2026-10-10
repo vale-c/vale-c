@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="contribution activity graph">
+<title>CONTRIBUTION FEED</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect width="1000" height="280" rx="8" fill="#0A0A0C"/>
+<rect x="1" y="1" width="998" height="278" rx="7" fill="none" stroke="#1E1E23" stroke-width="1.5"/>
+<text x="48" y="40" font-size="13" letter-spacing="3" fill="#8A8A92">CONTRIBUTION FEED</text>
+<text x="964" y="40" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">31D // 150</text>
+<line x1="64" y1="236.00" x2="964" y2="236.00" stroke="#1B1B20" stroke-width="1"/>
+  <text x="52" y="240.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">0</text>
+  <line x1="64" y1="154.00" x2="964" y2="154.00" stroke="#1B1B20" stroke-width="1"/>
+  <text x="52" y="158.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">10</text>
+  <line x1="64" y1="72.00" x2="964" y2="72.00" stroke="#1B1B20" stroke-width="1"/>
+  <text x="52" y="76.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">20</text>
+  <path d="M64.00,236.00 L64.00,186.80 L94.00,195.00 L124.00,236.00 L154.00,236.00 L184.00,186.80 L214.00,195.00 L244.00,236.00 L274.00,195.00 L304.00,219.60 L334.00,236.00 L364.00,236.00 L394.00,162.20 L424.00,227.80 L454.00,162.20 L484.00,154.00 L514.00,195.00 L544.00,236.00 L574.00,236.00 L604.00,211.40 L634.00,203.20 L664.00,162.20 L694.00,236.00 L724.00,113.00 L754.00,236.00 L784.00,227.80 L814.00,121.20 L844.00,145.80 L874.00,154.00 L904.00,186.80 L934.00,137.60 L964.00,219.60 L964.00,236.00 Z" fill="#F5C400" fill-opacity="0.133"/>
+  <path d="M64.00,186.80 L94.00,195.00 L124.00,236.00 L154.00,236.00 L184.00,186.80 L214.00,195.00 L244.00,236.00 L274.00,195.00 L304.00,219.60 L334.00,236.00 L364.00,236.00 L394.00,162.20 L424.00,227.80 L454.00,162.20 L484.00,154.00 L514.00,195.00 L544.00,236.00 L574.00,236.00 L604.00,211.40 L634.00,203.20 L664.00,162.20 L694.00,236.00 L724.00,113.00 L754.00,236.00 L784.00,227.80 L814.00,121.20 L844.00,145.80 L874.00,154.00 L904.00,186.80 L934.00,137.60 L964.00,219.60" fill="none" stroke="#F5C400" stroke-width="2.25" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="64.00" cy="186.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="94.00" cy="195.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="124.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="154.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="184.00" cy="186.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="214.00" cy="195.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="244.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="274.00" cy="195.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="304.00" cy="219.60" r="3.2" fill="#EDEDEF"/>
+  <circle cx="334.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="364.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="394.00" cy="162.20" r="3.2" fill="#EDEDEF"/>
+  <circle cx="424.00" cy="227.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="454.00" cy="162.20" r="3.2" fill="#EDEDEF"/>
+  <circle cx="484.00" cy="154.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="514.00" cy="195.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="544.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="574.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="604.00" cy="211.40" r="3.2" fill="#EDEDEF"/>
+  <circle cx="634.00" cy="203.20" r="3.2" fill="#EDEDEF"/>
+  <circle cx="664.00" cy="162.20" r="3.2" fill="#EDEDEF"/>
+  <circle cx="694.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="724.00" cy="113.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="754.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="784.00" cy="227.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="814.00" cy="121.20" r="3.2" fill="#EDEDEF"/>
+  <circle cx="844.00" cy="145.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="874.00" cy="154.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="904.00" cy="186.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="934.00" cy="137.60" r="3.2" fill="#EDEDEF"/>
+  <circle cx="964.00" cy="219.60" r="3.2" fill="#EDEDEF"/>
+  <text x="64.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">09.10</text>
+  <text x="244.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">09.16</text>
+  <text x="424.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">09.22</text>
+  <text x="604.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">09.28</text>
+  <text x="784.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.04</text>
+  <text x="964.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.10</text>
+</svg>
