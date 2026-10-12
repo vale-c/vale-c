@@ -103,11 +103,11 @@ const vale = {
 </picture>
 
 <!-- BLOG-POSTS:START -->
+- [Proved, but Not Yet Understood](https://valentinacalabrese.com/blog/proved-but-not-yet-understood) <sub>Oct 2026</sub>
 - [Let the Agents Cook. Make Them Prove It.](https://valentinacalabrese.com/blog/let-the-agents-cook-make-them-prove-it) <sub>Oct 2026</sub>
 - [Agentic Engineering Is Not a Vibe](https://valentinacalabrese.com/blog/ai-engineering-is-not-a-vibe) <sub>Feb 2026</sub>
 - [My AI Agent Installed Malware on My Server (And Then Caught Itself Doing It)](https://valentinacalabrese.com/blog/my-ai-agent-installed-malware-on-my-server) <sub>Feb 2026</sub>
 - [Graduation Day](https://valentinacalabrese.com/blog/graduation-and-new-year-resolutions) <sub>Jan 2024</sub>
-- [Decoding the Magic of React’s useEffect hook](https://valentinacalabrese.com/blog/decoding-use-effect-hook) <sub>Jul 2023</sub>
 <!-- BLOG-POSTS:END -->
 
 **[all intercepted transmissions &rarr;](https://valentinacalabrese.com/blog/)**
