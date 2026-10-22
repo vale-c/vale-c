@@ -17,33 +17,33 @@
 </g>
 <line x1="48" y1="62" x2="952" y2="62" stroke="#26262B" stroke-width="1.5"/>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.364;1" dur="0.55s" begin="0s" fill="freeze"/>
-  <text x="48" y="92" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:46</text>
-  <text x="192" y="92" font-size="13" letter-spacing="1" fill="#EDEDEF">PUSHED 2 COMMITS TO vale-c</text>
-  <text x="952" y="92" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ BENIGN ]</text>
+  <text x="48" y="92" font-size="13" letter-spacing="1" fill="#5A5A62">10.22 10:39</text>
+  <text x="192" y="92" font-size="13" letter-spacing="1" fill="#EDEDEF">FLAGGED TARGET morluto/rea</text>
+  <text x="952" y="92" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ CURIOSITY ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.500;1" dur="0.7s" begin="0s" fill="freeze"/>
-  <text x="48" y="122" font-size="13" letter-spacing="1" fill="#5A5A62">10.10 12:11</text>
-  <text x="192" y="122" font-size="13" letter-spacing="1" fill="#EDEDEF">FLAGGED TARGET bendlang/bend</text>
-  <text x="952" y="122" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ CURIOSITY ]</text>
+  <text x="48" y="122" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:46</text>
+  <text x="192" y="122" font-size="13" letter-spacing="1" fill="#EDEDEF">PUSHED 2 COMMITS TO vale-c</text>
+  <text x="952" y="122" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ BENIGN ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.588;1" dur="0.85s" begin="0s" fill="freeze"/>
-  <text x="48" y="152" font-size="13" letter-spacing="1" fill="#5A5A62">10.10 11:05</text>
-  <text x="192" y="152" font-size="13" letter-spacing="1" fill="#EDEDEF">OPENED PR #3 — vale-c</text>
-  <text x="952" y="152" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ PRODUCTIVE ]</text>
+  <text x="48" y="152" font-size="13" letter-spacing="1" fill="#5A5A62">10.10 12:11</text>
+  <text x="192" y="152" font-size="13" letter-spacing="1" fill="#EDEDEF">FLAGGED TARGET bendlang/bend</text>
+  <text x="952" y="152" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ CURIOSITY ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.650;1" dur="0.9999999999999999s" begin="0s" fill="freeze"/>
-  <text x="48" y="182" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:52</text>
-  <text x="192" y="182" font-size="13" letter-spacing="1" fill="#EDEDEF">PUSHED 2 COMMITS TO vale-c</text>
-  <text x="952" y="182" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ BENIGN ]</text>
+  <text x="48" y="182" font-size="13" letter-spacing="1" fill="#5A5A62">10.10 11:05</text>
+  <text x="192" y="182" font-size="13" letter-spacing="1" fill="#EDEDEF">OPENED PR #3 — vale-c</text>
+  <text x="952" y="182" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ PRODUCTIVE ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.696;1" dur="1.15s" begin="0s" fill="freeze"/>
-  <text x="48" y="212" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:51</text>
-  <text x="192" y="212" font-size="13" letter-spacing="1" fill="#EDEDEF">OPENED PR #2 — vale-c</text>
-  <text x="952" y="212" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ PRODUCTIVE ]</text>
+  <text x="48" y="212" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:52</text>
+  <text x="192" y="212" font-size="13" letter-spacing="1" fill="#EDEDEF">PUSHED 2 COMMITS TO vale-c</text>
+  <text x="952" y="212" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ BENIGN ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.731;1" dur="1.2999999999999998s" begin="0s" fill="freeze"/>
-  <text x="48" y="242" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:45</text>
-  <text x="192" y="242" font-size="13" letter-spacing="1" fill="#EDEDEF">OPENED PR #1 — vale-c</text>
+  <text x="48" y="242" font-size="13" letter-spacing="1" fill="#5A5A62">10.09 19:51</text>
+  <text x="192" y="242" font-size="13" letter-spacing="1" fill="#EDEDEF">OPENED PR #2 — vale-c</text>
   <text x="952" y="242" text-anchor="end" font-size="13" letter-spacing="1" fill="#F5C400">[ PRODUCTIVE ]</text>
 </g>
 </svg>
