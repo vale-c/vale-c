@@ -23,7 +23,7 @@
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.500;1" dur="0.7s" begin="0s" fill="freeze"/>
   <text x="48" y="122" font-size="13" letter-spacing="1" fill="#989AA1">10.09 19:46</text>
-  <text x="192" y="122" font-size="13" letter-spacing="1" fill="#1B1C1F">PUSHED 2 COMMITS TO vale-c</text>
+  <text x="192" y="122" font-size="13" letter-spacing="1" fill="#1B1C1F">PUSHED 1 COMMIT TO vale-c</text>
   <text x="952" y="122" text-anchor="end" font-size="13" letter-spacing="1" fill="#C1272D">[ BENIGN ]</text>
 </g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.588;1" dur="0.85s" begin="0s" fill="freeze"/>
