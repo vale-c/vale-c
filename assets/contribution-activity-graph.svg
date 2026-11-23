@@ -4,50 +4,50 @@
 <rect width="1000" height="280" rx="8" fill="#0A0A0C"/>
 <rect x="1" y="1" width="998" height="278" rx="7" fill="none" stroke="#1E1E23" stroke-width="1.5"/>
 <text x="48" y="40" font-size="13" letter-spacing="3" fill="#8A8A92">CONTRIBUTION FEED</text>
-<text x="964" y="40" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">31D // 1152</text>
+<text x="964" y="40" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">31D // 1600</text>
 <line x1="64" y1="236.00" x2="964" y2="236.00" stroke="#1B1B20" stroke-width="1"/>
   <text x="52" y="240.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">0</text>
   <line x1="64" y1="154.00" x2="964" y2="154.00" stroke="#1B1B20" stroke-width="1"/>
-  <text x="52" y="158.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">100</text>
+  <text x="52" y="158.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">250</text>
   <line x1="64" y1="72.00" x2="964" y2="72.00" stroke="#1B1B20" stroke-width="1"/>
-  <text x="52" y="76.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">200</text>
-  <path d="M64.00,236.00 L64.00,226.16 L94.00,209.76 L124.00,198.28 L154.00,226.16 L184.00,224.52 L214.00,223.70 L244.00,201.56 L274.00,208.94 L304.00,169.58 L334.00,109.72 L364.00,147.44 L394.00,230.26 L424.00,213.04 L454.00,186.80 L484.00,220.42 L514.00,124.48 L544.00,183.52 L574.00,226.98 L604.00,187.62 L634.00,229.44 L664.00,225.34 L694.00,215.50 L724.00,213.86 L754.00,178.60 L784.00,222.88 L814.00,218.78 L844.00,218.78 L874.00,224.52 L904.00,232.72 L934.00,236.00 L964.00,236.00 L964.00,236.00 Z" fill="#F5C400" fill-opacity="0.133"/>
-  <path d="M64.00,226.16 L94.00,209.76 L124.00,198.28 L154.00,226.16 L184.00,224.52 L214.00,223.70 L244.00,201.56 L274.00,208.94 L304.00,169.58 L334.00,109.72 L364.00,147.44 L394.00,230.26 L424.00,213.04 L454.00,186.80 L484.00,220.42 L514.00,124.48 L544.00,183.52 L574.00,226.98 L604.00,187.62 L634.00,229.44 L664.00,225.34 L694.00,215.50 L724.00,213.86 L754.00,178.60 L784.00,222.88 L814.00,218.78 L844.00,218.78 L874.00,224.52 L904.00,232.72 L934.00,236.00 L964.00,236.00" fill="none" stroke="#F5C400" stroke-width="2.25" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="64.00" cy="226.16" r="3.2" fill="#EDEDEF"/>
-  <circle cx="94.00" cy="209.76" r="3.2" fill="#EDEDEF"/>
-  <circle cx="124.00" cy="198.28" r="3.2" fill="#EDEDEF"/>
-  <circle cx="154.00" cy="226.16" r="3.2" fill="#EDEDEF"/>
-  <circle cx="184.00" cy="224.52" r="3.2" fill="#EDEDEF"/>
-  <circle cx="214.00" cy="223.70" r="3.2" fill="#EDEDEF"/>
-  <circle cx="244.00" cy="201.56" r="3.2" fill="#EDEDEF"/>
-  <circle cx="274.00" cy="208.94" r="3.2" fill="#EDEDEF"/>
-  <circle cx="304.00" cy="169.58" r="3.2" fill="#EDEDEF"/>
-  <circle cx="334.00" cy="109.72" r="3.2" fill="#EDEDEF"/>
-  <circle cx="364.00" cy="147.44" r="3.2" fill="#EDEDEF"/>
-  <circle cx="394.00" cy="230.26" r="3.2" fill="#EDEDEF"/>
-  <circle cx="424.00" cy="213.04" r="3.2" fill="#EDEDEF"/>
-  <circle cx="454.00" cy="186.80" r="3.2" fill="#EDEDEF"/>
-  <circle cx="484.00" cy="220.42" r="3.2" fill="#EDEDEF"/>
-  <circle cx="514.00" cy="124.48" r="3.2" fill="#EDEDEF"/>
-  <circle cx="544.00" cy="183.52" r="3.2" fill="#EDEDEF"/>
-  <circle cx="574.00" cy="226.98" r="3.2" fill="#EDEDEF"/>
-  <circle cx="604.00" cy="187.62" r="3.2" fill="#EDEDEF"/>
-  <circle cx="634.00" cy="229.44" r="3.2" fill="#EDEDEF"/>
-  <circle cx="664.00" cy="225.34" r="3.2" fill="#EDEDEF"/>
-  <circle cx="694.00" cy="215.50" r="3.2" fill="#EDEDEF"/>
-  <circle cx="724.00" cy="213.86" r="3.2" fill="#EDEDEF"/>
-  <circle cx="754.00" cy="178.60" r="3.2" fill="#EDEDEF"/>
-  <circle cx="784.00" cy="222.88" r="3.2" fill="#EDEDEF"/>
-  <circle cx="814.00" cy="218.78" r="3.2" fill="#EDEDEF"/>
-  <circle cx="844.00" cy="218.78" r="3.2" fill="#EDEDEF"/>
-  <circle cx="874.00" cy="224.52" r="3.2" fill="#EDEDEF"/>
-  <circle cx="904.00" cy="232.72" r="3.2" fill="#EDEDEF"/>
-  <circle cx="934.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
-  <circle cx="964.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
-  <text x="64.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.23</text>
-  <text x="244.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.29</text>
-  <text x="424.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.04</text>
-  <text x="604.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.10</text>
-  <text x="784.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.16</text>
-  <text x="964.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.22</text>
+  <text x="52" y="76.00" text-anchor="end" font-size="12" letter-spacing="1" fill="#5A5A62">500</text>
+  <path d="M64.00,236.00 L64.00,225.50 L94.00,220.91 L124.00,232.06 L154.00,231.41 L184.00,231.08 L214.00,222.22 L244.00,225.18 L274.00,206.15 L304.00,143.18 L334.00,176.96 L364.00,233.70 L394.00,221.57 L424.00,216.32 L454.00,229.77 L484.00,154.66 L514.00,197.95 L544.00,232.39 L574.00,216.65 L604.00,233.38 L634.00,231.74 L664.00,227.80 L694.00,224.52 L724.00,213.04 L754.00,230.75 L784.00,229.11 L814.00,229.11 L844.00,231.41 L874.00,234.69 L904.00,236.00 L934.00,222.22 L964.00,229.77 L964.00,236.00 Z" fill="#F5C400" fill-opacity="0.133"/>
+  <path d="M64.00,225.50 L94.00,220.91 L124.00,232.06 L154.00,231.41 L184.00,231.08 L214.00,222.22 L244.00,225.18 L274.00,206.15 L304.00,143.18 L334.00,176.96 L364.00,233.70 L394.00,221.57 L424.00,216.32 L454.00,229.77 L484.00,154.66 L514.00,197.95 L544.00,232.39 L574.00,216.65 L604.00,233.38 L634.00,231.74 L664.00,227.80 L694.00,224.52 L724.00,213.04 L754.00,230.75 L784.00,229.11 L814.00,229.11 L844.00,231.41 L874.00,234.69 L904.00,236.00 L934.00,222.22 L964.00,229.77" fill="none" stroke="#F5C400" stroke-width="2.25" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="64.00" cy="225.50" r="3.2" fill="#EDEDEF"/>
+  <circle cx="94.00" cy="220.91" r="3.2" fill="#EDEDEF"/>
+  <circle cx="124.00" cy="232.06" r="3.2" fill="#EDEDEF"/>
+  <circle cx="154.00" cy="231.41" r="3.2" fill="#EDEDEF"/>
+  <circle cx="184.00" cy="231.08" r="3.2" fill="#EDEDEF"/>
+  <circle cx="214.00" cy="222.22" r="3.2" fill="#EDEDEF"/>
+  <circle cx="244.00" cy="225.18" r="3.2" fill="#EDEDEF"/>
+  <circle cx="274.00" cy="206.15" r="3.2" fill="#EDEDEF"/>
+  <circle cx="304.00" cy="143.18" r="3.2" fill="#EDEDEF"/>
+  <circle cx="334.00" cy="176.96" r="3.2" fill="#EDEDEF"/>
+  <circle cx="364.00" cy="233.70" r="3.2" fill="#EDEDEF"/>
+  <circle cx="394.00" cy="221.57" r="3.2" fill="#EDEDEF"/>
+  <circle cx="424.00" cy="216.32" r="3.2" fill="#EDEDEF"/>
+  <circle cx="454.00" cy="229.77" r="3.2" fill="#EDEDEF"/>
+  <circle cx="484.00" cy="154.66" r="3.2" fill="#EDEDEF"/>
+  <circle cx="514.00" cy="197.95" r="3.2" fill="#EDEDEF"/>
+  <circle cx="544.00" cy="232.39" r="3.2" fill="#EDEDEF"/>
+  <circle cx="574.00" cy="216.65" r="3.2" fill="#EDEDEF"/>
+  <circle cx="604.00" cy="233.38" r="3.2" fill="#EDEDEF"/>
+  <circle cx="634.00" cy="231.74" r="3.2" fill="#EDEDEF"/>
+  <circle cx="664.00" cy="227.80" r="3.2" fill="#EDEDEF"/>
+  <circle cx="694.00" cy="224.52" r="3.2" fill="#EDEDEF"/>
+  <circle cx="724.00" cy="213.04" r="3.2" fill="#EDEDEF"/>
+  <circle cx="754.00" cy="230.75" r="3.2" fill="#EDEDEF"/>
+  <circle cx="784.00" cy="229.11" r="3.2" fill="#EDEDEF"/>
+  <circle cx="814.00" cy="229.11" r="3.2" fill="#EDEDEF"/>
+  <circle cx="844.00" cy="231.41" r="3.2" fill="#EDEDEF"/>
+  <circle cx="874.00" cy="234.69" r="3.2" fill="#EDEDEF"/>
+  <circle cx="904.00" cy="236.00" r="3.2" fill="#EDEDEF"/>
+  <circle cx="934.00" cy="222.22" r="3.2" fill="#EDEDEF"/>
+  <circle cx="964.00" cy="229.77" r="3.2" fill="#EDEDEF"/>
+  <text x="64.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.24</text>
+  <text x="244.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">10.30</text>
+  <text x="424.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.05</text>
+  <text x="604.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.11</text>
+  <text x="784.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.17</text>
+  <text x="964.00" y="264" text-anchor="middle" font-size="12" letter-spacing="1" fill="#5A5A62">11.23</text>
 </svg>
